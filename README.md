@@ -4,7 +4,7 @@ This repository contains a structured report based on the analysis of a dataset 
 
 ## Dataset Overview
 
-- **Source**: [Kaggle - Consumer Reviews of Amazon Products](https://www.kaggle.com/dataset/consumer-reviews-of-amazon-products)
+- **Source**: [Kaggle - Consumer Reviews of Amazon Products](https://drive.google.com/file/d/1AyYVylAvXIUt7nZRSEh-7_w03eUbaItR/view)
 - **Size**: 34,633 rows × 21 columns
 - **Key Features**:
   - `ID`: Unique identifier for each consumer
